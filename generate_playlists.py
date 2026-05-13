@@ -29,7 +29,10 @@ REGION_MAP = {
     'es': 'Spain', 'fr': 'France', 'it': 'Italy', 'br': 'Brazil',
     'mx': 'Mexico', 'ar': 'Argentina', 'cl': 'Chile', 'co': 'Colombia',
     'pe': 'Peru', 'se': 'Sweden', 'no': 'Norway', 'dk': 'Denmark',
-    'in': 'India', 'jp': 'Japan', 'kr': 'South Korea', 'au': 'Australia'
+    'in': 'India', 'jp': 'Japan', 'kr': 'South Korea', 'au': 'Australia',
+    've': 'Venezuela', 'uy': 'Uruguay', 'sv': 'El Salvador', 'pa': 'Panama', 
+    'ni': 'Nicaragua', 'hn': 'Honduras', 'fi': 'Finland', 'ec': 'Ecuador', 
+    'do': 'Domincan Republic', 'cr': 'Costa Rica', 'bo': 'Bolivia' 
 }
 
 TOP_REGIONS = ['United States', 'Canada', 'United Kingdom']
