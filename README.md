@@ -13,7 +13,6 @@ This repository automatically generates M3U playlist files for various free ad-s
 | **Samsung TV Plus** | ✅ Online | Global (11+ Regions) | `samsungtvplus_all.m3u` | `i.mjh.nz` (Auto-embedded) |
 | **Roku Channel** | ✅ Online | US / All | `roku_all.m3u` | `i.mjh.nz` (Auto-embedded) |
 | **Tubi TV** | ✅ Online | US (Scraped) | `tubi_all.m3u` | `tubi_epg.xml` (Self-Generated) |
-| **Stirr TV** | ❌ Offline | N/A | Removed | Service Discontinued |
 
 ---
 
