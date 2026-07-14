@@ -15,6 +15,13 @@ from datetime import datetime
 from urllib.parse import unquote, urlparse, urlunparse
 from bs4 import BeautifulSoup
 
+DEFAULT_STREAM_POOL_SIZE = 1500
+
+try:
+    STREAM_POOL_SIZE = max(1, int(os.environ.get("PLUTO_STREAM_POOL_SIZE", DEFAULT_STREAM_POOL_SIZE)))
+except (ValueError, TypeError):
+    STREAM_POOL_SIZE = DEFAULT_STREAM_POOL_SIZE
+
 # Disable the InsecureRequestWarning
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
