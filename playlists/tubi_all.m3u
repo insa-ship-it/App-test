@@ -1,0 +1,33 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/insa-ship-it/App-test/main/playlists/tubi_epg.xml"
+#EXTINF:-1 tvg-id="400000163" tvg-logo="https://canvas-lb.tubitv.com/opts/V7wBhte3LVROfg==/c6d68510-32a1-4075-831f-64d3dc203b46/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",ADN40
+https://live-manifest.production-public.tubi.io/live/ce14e63a-302a-4360-8c0c-bbb9f9df12dd/playlist.m3u8
+#EXTINF:-1 tvg-id="400000160" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",Azteca Deportes Network
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-id="400000162" tvg-logo="https://canvas-lb.tubitv.com/opts/3PxnwocWszcWVQ==/482676ff-f332-4a8c-8332-67227d87b522/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",Azteca Internacional
+https://live-manifest.production-public.tubi.io/live/597bc7cf-2767-4791-b05e-b70a86c3ae1c/playlist.m3u8
+#EXTINF:-1 tvg-id="400000114" tvg-logo="https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",Cheaters en Español
+https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
+#EXTINF:-1 tvg-id="400000159" tvg-logo="https://canvas-lb.tubitv.com/opts/f_jxPP1Px13CPA==/5e1dd110-54bc-4c25-81f5-c36976224e74/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",Clic
+https://live-manifest.production-public.tubi.io/live/163d173b-6b0d-471f-8e59-6e92ac9043c6/playlist.m3u8
+#EXTINF:-1 tvg-id="400000158" tvg-logo="https://canvas-lb.tubitv.com/opts/S-Jr_jxZ28wq9A==/ec101686-5af7-4633-be22-d30d27902b34/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",Corazón
+https://live-manifest.production-public.tubi.io/live/8d12a37e-c558-4481-9dd2-2d55ff8b6731/playlist.m3u8
+#EXTINF:-1 tvg-id="400000118" tvg-logo="https://canvas-lb.tubitv.com/opts/qbLpkioyCluU2g==/cc64f947-98c8-4afc-b22e-329d523d3261/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",EstrellaTV
+https://live-manifest.production-public.tubi.io/live/a83b6e7a-d6ff-49fe-8cfb-5b1a1808d4bc/playlist.m3u8
+#EXTINF:-1 tvg-id="400000115" tvg-logo="https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",FilmRise Crimenes Verdaderos
+https://live-manifest.production-public.tubi.io/live/957d00c2-f581-4ec1-a49f-f571ad30faa8/playlist.m3u8
+#EXTINF:-1 tvg-id="400000113" tvg-logo="https://canvas-lb.tubitv.com/opts/M4huBOv4qe0viQ==/7e8f6ffc-7fc5-4168-8593-f07084ee7b81/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",FilmRise Series Gratis
+https://live-manifest.production-public.tubi.io/live/5b66e78a-fc9e-4ffb-bbb0-00d4d2af2c53/playlist.m3u8
+#EXTINF:-1 tvg-id="400000167" tvg-logo="https://canvas-lb.tubitv.com/opts/rlUJMopl0Kfd4w==/d301ecac-dd88-404a-a26c-a271a743bd72/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",FreeTV Accion
+https://live-manifest.production-public.tubi.io/live/7b3342db-c6ae-46bf-ba45-3b24f1d99aaa/playlist.m3u8
+#EXTINF:-1 tvg-id="400000166" tvg-logo="https://canvas-lb.tubitv.com/opts/wq0i_h7NXHOeFQ==/c6212da4-d96c-4ca4-96ff-cb2a8e39f46f/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",FreeTV Estelar
+https://live-manifest.production-public.tubi.io/live/849fc9bd-f9a7-4fd7-8ded-37a25d48cd92/playlist.m3u8
+#EXTINF:-1 tvg-id="400000165" tvg-logo="https://canvas-lb.tubitv.com/opts/SABFtWtM1ncGaw==/491e2319-a217-4f8d-9b25-34ceb20d90e2/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",FreeTV Sureño
+https://live-manifest.production-public.tubi.io/live/e5bc16ce-caa0-4f72-ada7-8bc2a01e27b5/playlist.m3u8
+#EXTINF:-1 tvg-id="400000291" tvg-logo="https://canvas-lb.tubitv.com/opts/9Z1QnAP6tQoUFA==/730f7dae-9bb8-4c17-8144-d47df922b9b9/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Lucha Plus
+https://live-manifest.production-public.tubi.io/live/6436b853-530a-42e3-bd7f-20776e7e2e0b/playlist.m3u8
+#EXTINF:-1 tvg-id="400000109" tvg-logo="https://canvas-lb.tubitv.com/opts/v0nAwXl2oce_Bg==/0a4a14fb-16da-4589-b85b-4305e9bf0549/CHgQeDoFMS4xLjlAAQ==" group-title="Destacados",MasterChef Mexico
+https://live-manifest.production-public.tubi.io/live/7935fa0e-5031-4a7f-86d5-0653e72a0540/playlist.m3u8
+#EXTINF:-1 tvg-id="400000112" tvg-logo="https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Todo Cine
+https://live-manifest.production-public.tubi.io/live/d45a25a1-b1f2-42cc-81c8-5315806420d8/playlist.m3u8
+#EXTINF:-1 tvg-id="400000111" tvg-logo="https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ==" group-title="Español",Todo Novelas más Pasiones
+https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2e4aa68acf/playlist.m3u8

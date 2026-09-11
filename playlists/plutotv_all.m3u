@@ -557,6 +557,10 @@ https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 channel-id="62e90e8cb05d2b0007f10a61-ca" tvg-id="62e90e8cb05d2b0007f10a61" tvg-chno="895" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png" group-title="Canada",Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+#EXTINF:-1 channel-id="6a03782f2c1c785c1161756c-us" tvg-id="6a03782f2c1c785c1161756c" tvg-chno="2778" tvg-name="Garcia-Benn on Paramount+" tvg-logo="https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1789054188922.png" group-title="United States",Garcia-Benn on Paramount+
+https://jmp2.uk/plu-6a03782f2c1c785c1161756c.m3u8
+#EXTINF:-1 channel-id="6a4eb535269be3853419f4c7-ca" tvg-id="6a4eb535269be3853419f4c7" tvg-chno="1299" tvg-name="Garcia-Benn on Paramount+" tvg-logo="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/colorLogoPNG_1789072206988.png" group-title="Canada",Garcia-Benn on Paramount+
+https://jmp2.uk/plu-6a4eb535269be3853419f4c7.m3u8
 #EXTINF:-1 channel-id="60faf9ddfcc1f200070a5932-us" tvg-id="60faf9ddfcc1f200070a5932" tvg-chno="3910" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="United States",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 #EXTINF:-1 channel-id="677f927554f43dad4b3258aa-ca" tvg-id="677f927554f43dad4b3258aa" tvg-chno="1250" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" group-title="Canada",Garfield and Friends
@@ -697,6 +701,8 @@ https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 #EXTINF:-1 channel-id="6900997e043e3df1897d017f-gb" tvg-id="6900997e043e3df1897d017f" tvg-chno="209" tvg-name="Ironside" tvg-logo="https://images.pluto.tv/channels/6900997e043e3df1897d017f/colorLogoPNG_1761664014410.png" group-title="United Kingdom",Ironside
 https://jmp2.uk/plu-6900997e043e3df1897d017f.m3u8
+#EXTINF:-1 channel-id="6a4fda4538f47f0af402bdb0-us" tvg-id="6a4fda4538f47f0af402bdb0" tvg-chno="4033" tvg-name="It's Anime" tvg-logo="https://images.pluto.tv/channels/6a4fda4538f47f0af402bdb0/colorLogoPNG_1787854579734.png" group-title="United States",It's Anime
+https://jmp2.uk/plu-6a4fda4538f47f0af402bdb0.m3u8
 #EXTINF:-1 channel-id="660e5dc60cd4630008f6198a-gb" tvg-id="660e5dc60cd4630008f6198a" tvg-chno="206" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png" group-title="United Kingdom",JAG
 https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
 #EXTINF:-1 channel-id="66a105f4a79dea0008aa5e0f-ca" tvg-id="66a105f4a79dea0008aa5e0f" tvg-chno="415" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="Canada",JAG
@@ -2797,6 +2803,8 @@ https://jmp2.uk/plu-6270ea4345f5bc0007823048.m3u8
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 channel-id="62e90e8cb05d2b0007f10a61-cl" tvg-id="62e90e8cb05d2b0007f10a61" tvg-chno="895" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png" group-title="Chile",Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+#EXTINF:-1 channel-id="6a4eb535269be3853419f4c7-cl" tvg-id="6a4eb535269be3853419f4c7" tvg-chno="1299" tvg-name="Garcia-Benn on Paramount+" tvg-logo="https://images.pluto.tv/channels/6a4eb535269be3853419f4c7/colorLogoPNG_1789072206988.png" group-title="Chile",Garcia-Benn on Paramount+
+https://jmp2.uk/plu-6a4eb535269be3853419f4c7.m3u8
 #EXTINF:-1 channel-id="677f927554f43dad4b3258aa-cl" tvg-id="677f927554f43dad4b3258aa" tvg-chno="1250" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" group-title="Chile",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 channel-id="69c5100c3d2597380f0f6422-es" tvg-id="69c5100c3d2597380f0f6422" tvg-chno="70" tvg-name="Gata salvaje" tvg-logo="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png" group-title="Spain",Gata salvaje
@@ -4105,9 +4113,9 @@ https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 channel-id="5f1ac1f1b66c76000790ef27-es" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="130" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Spain",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-mx" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1786125745854.png" group-title="Mexico",Pluto TV Cine Estelar
+#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-mx" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png" group-title="Mexico",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
-#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-ar" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1786125745854.png" group-title="Argentina",Pluto TV Cine Estelar
+#EXTINF:-1 channel-id="5dcde437229eff00091b6c30-ar" tvg-id="5dcde437229eff00091b6c30" tvg-chno="18" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png" group-title="Argentina",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c-mx" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="90" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png" group-title="Mexico",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
